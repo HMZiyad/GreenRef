@@ -1,3 +1,9 @@
 original/**/build/ 
 original/**/dist/ 
 refactored/**/dist/ 
+build/ 
+dist/ 
+*.exe 
+*.pkg 
+config.bat
+node_modules
